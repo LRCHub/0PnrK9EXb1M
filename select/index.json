@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Weight of the World/壊レタ世界ノ歌",
+  "base_artist": "岡部啓一",
+  "createdAt": "2026-02-28T15:27:09.377652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Weight Of The World",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Weight_Of_The_World_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Hurts",
+      "has_synced": true,
+      "path": "select/02_Weight_of_the_World_Hurts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Weight Of The World",
+      "artist": "Tarkio",
+      "has_synced": true,
+      "path": "select/03_Weight_Of_The_World_Tarkio.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/04_Weight_of_the_World_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "MaGiCa",
+      "has_synced": true,
+      "path": "select/05_Weight_of_the_World_MaGiCa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Weight of the world",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/06_Weight_of_the_world_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Ansoticca",
+      "has_synced": true,
+      "path": "select/07_Weight_of_the_World_Ansoticca.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Weight Of The World",
+      "artist": "Lemar",
+      "has_synced": true,
+      "path": "select/08_Weight_Of_The_World_Lemar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Citizen Soldier",
+      "has_synced": true,
+      "path": "select/09_Weight_of_the_World_Citizen_Soldier.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Weight Of The World",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/10_Weight_Of_The_World_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Battle Tapes",
+      "has_synced": false,
+      "path": "select/11_Weight_of_the_World_Battle_Tapes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Planetshakers",
+      "has_synced": true,
+      "path": "select/12_Weight_of_the_World_Planetshakers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Misery Signals",
+      "has_synced": true,
+      "path": "select/13_Weight_of_the_World_Misery_Signals.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Throwdown",
+      "has_synced": false,
+      "path": "select/14_Weight_of_the_World_Throwdown.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Weight Of The World",
+      "artist": "Jon Foreman",
+      "has_synced": true,
+      "path": "select/15_Weight_Of_The_World_Jon_Foreman.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Weight Of The World",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/16_The_Weight_Of_The_World_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Weight of the World",
+      "artist": "Drain",
+      "has_synced": true,
+      "path": "select/17_Weight_of_the_World_Drain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Weight of the World/壊レタ世界ノ歌",
+      "artist": "岡部啓一",
+      "has_synced": false,
+      "path": "select/pl_01_Weight_of_the_World_壊レタ世界ノ歌_岡部啓一.txt"
+    }
+  ]
+}
